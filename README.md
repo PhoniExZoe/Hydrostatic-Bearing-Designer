@@ -3,7 +3,7 @@
 ## About
 
 
-_Hydrostaic Bearing Designer_ is an app for hydrostatic bearing parameter calculation, stiffness performance prediction, spindle error motion test, and digital twin demonstration. By providing a truly easy to use app for hydrostatic bearing design, makes _Hydrostatic Bearing Designer_ an ideal tool for students in  Course _Precision Machine Design_ learning Hydrostatic bearing, Spindle error motion, and Digital twin in a simple and convenient way.
+_Hydrostaic Bearing Designer_ is an app for hydrostatic bearing parameter calculation, stiffness performance prediction, spindle error motion test, and digital twin demonstration. By providing a truly easy-to-use app for hydrostatic bearing design, makes _Hydrostatic Bearing Designer_ an ideal tool for students in  Course _Precision Machine Design_ learning Hydrostatic bearing, Spindle error motion, and Digital twin in a simple and convenient way.
 
 
 
@@ -51,7 +51,7 @@ The app can be divided into two sections: Hydrostatic bearing design and spindle
 
 <img width="1094" alt="Snipaste_2023-07-08_01-19-33" src="https://github.com/PhoniExZoe/Hydrostatic-Bearing-Designer/assets/24270422/f7b96cc0-8731-4972-867e-e5a49f28a81f">
 
-2. Check bearing performance to decide wheather it meets our need.
+2. Check bearing performance to decide whether it meets our needs.
 
 <img width="1094" alt="Snipaste_2023-07-08_01-29-23" src="https://github.com/PhoniExZoe/Hydrostatic-Bearing-Designer/assets/24270422/b20bdd8c-1c91-49ad-91a2-9005c2bbe5df">
 
@@ -68,7 +68,7 @@ The app can be divided into two sections: Hydrostatic bearing design and spindle
 3. Display the virtual model of the real machine spindle and calculate the suspected oil film thickness.
 
 >**Note**
->The CAD model demonstrates how digital twin will work, however it's not synchornized with the real machine model.
+>The CAD model demonstrates how the digital twin will work, however, it's not synchronized with the real machine model.
 
 <img width="1094" alt="Snipaste_2023-07-08_01-37-09" src="https://github.com/PhoniExZoe/Hydrostatic-Bearing-Designer/assets/24270422/b43c28e9-2f69-452b-9c1f-d2fd8aafc8a3">
 
@@ -90,4 +90,4 @@ The app can be divided into two sections: Hydrostatic bearing design and spindle
 ## Acknowledgments
 
 * The writing format of this README file is based on the reference of FEATool.
-* Big thanks to Cindy Hsieh for being my teammate and working together with me to organize experimental data and test software.
+* Big thanks to Cindy Hsieh for being my teammate and helping me organize experimental data and test software.
