@@ -41,7 +41,7 @@ or completion.)
 
 ## Tutorials
 
-The app can be divided into two sections: Hydrostatic bearing design and spindle error motion.
+The app can be divided into two sections: Hydrostatic bearing design and Spindle error motion.
 
 ![](https://hackmd.io/_uploads/SJXTdaHYh.png)
 
