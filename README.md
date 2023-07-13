@@ -89,5 +89,5 @@ The app can be divided into two sections: Hydrostatic bearing design and Spindle
 
 ## Acknowledgments
 
-* The writing format of this README file is based on the reference of FEATool.
+* The writing format of this README file is based on the reference of [FEATool](https://github.com/precise-simulation/featool-multiphysics).
 * Big thanks to Cindy Hsieh for being my teammate and helping me organize experimental data and test software.
